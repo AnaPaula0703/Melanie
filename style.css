@@ -1,0 +1,58 @@
+body {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-image: url("./SongCryBaby.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+ul {
+  list-style: none;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  display: inline;
+  color: #9ff2f4;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000;
+}
+
+h2 {
+  color: #9ff2f4;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: #292929;
+}
+
+
+a {
+  font-size: larger;
+  color: #9ff2f4;
+}
+
+#imgMelanie {
+  border: 10px solid #9ff2f4;
+  width: 320px;
+  height: 250px;
+  margin: 5px;
+  padding: 0px;
+}
+
+#albumCryBaby{
+  border: 10px solid #9ff2f4;
+  width: 320px;
+  height: 250px;
+  margin: 5px;
+  padding: 0px;
+}
